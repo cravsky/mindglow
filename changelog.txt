@@ -1,6 +1,9 @@
 Mindglow by Cravsky
 
 Changelog:
+v 1.0
 Published: 27.01.2018
-
 Commited to GitHub: 30.01.2018
+v 1.1
+30.01.2018
+Removed minor html warnings
